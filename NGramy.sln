@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NGramy.App", "NGramy\NGramy.App.csproj", "{29E65180-8417-45ED-8719-2560BAA73489}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ngramy.BL", "Ngramy.BL\Ngramy.BL.csproj", "{BC008AE6-CCC3-405C-97EA-F29EA73BC524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGamy.tst", "NGamy.tst\NGamy.tst.csproj", "{C9FA4852-793C-4848-ADAF-E146C0621D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E65180-8417-45ED-8719-2560BAA73489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E65180-8417-45ED-8719-2560BAA73489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E65180-8417-45ED-8719-2560BAA73489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E65180-8417-45ED-8719-2560BAA73489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC008AE6-CCC3-405C-97EA-F29EA73BC524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC008AE6-CCC3-405C-97EA-F29EA73BC524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC008AE6-CCC3-405C-97EA-F29EA73BC524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC008AE6-CCC3-405C-97EA-F29EA73BC524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FA4852-793C-4848-ADAF-E146C0621D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FA4852-793C-4848-ADAF-E146C0621D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FA4852-793C-4848-ADAF-E146C0621D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FA4852-793C-4848-ADAF-E146C0621D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6C7EDC-9305-4BF0-8B2B-5CE790527394}
+	EndGlobalSection
+EndGlobal
