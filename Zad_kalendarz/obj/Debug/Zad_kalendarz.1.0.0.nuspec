@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Zad_kalendarz</id>
+    <version>1.0.0</version>
+    <authors>Zad_kalendarz</authors>
+    <owners>Zad_kalendarz</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Debug\netcoreapp3.1\Zad_kalendarz.runtimeconfig.json" target="lib\netcoreapp3.1\Zad_kalendarz.runtimeconfig.json" />
+    <file src="C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Debug\netcoreapp3.1\Zad_kalendarz.dll" target="lib\netcoreapp3.1\Zad_kalendarz.dll" />
+  </files>
+</package>

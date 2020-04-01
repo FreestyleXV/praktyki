@@ -1,0 +1,11 @@
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Release\netcoreapp3.1\Zad_kalendarz.exe
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Release\netcoreapp3.1\Zad_kalendarz.deps.json
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Release\netcoreapp3.1\Zad_kalendarz.runtimeconfig.json
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Release\netcoreapp3.1\Zad_kalendarz.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Release\netcoreapp3.1\Zad_kalendarz.dll
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\bin\Release\netcoreapp3.1\Zad_kalendarz.pdb
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\obj\Release\netcoreapp3.1\Zad_kalendarz.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\obj\Release\netcoreapp3.1\Zad_kalendarz.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\obj\Release\netcoreapp3.1\Zad_kalendarz.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\obj\Release\netcoreapp3.1\Zad_kalendarz.dll
+C:\Users\piotr\source\repos\Weekendy\Zad_kalendarz\obj\Release\netcoreapp3.1\Zad_kalendarz.pdb
